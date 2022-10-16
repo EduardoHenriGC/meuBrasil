@@ -31,7 +31,7 @@ const Destaque = () => {
           accusamus quod!
         </span>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam
+          Lorem two ipsum dolor, sit amet consectetur adipisicing elit. Ipsam
           inventore vitae obcaecati laudantium omnis fuga consequatur officiis
           nobis sequi, repudiandae modi nam sed eius nisi quos, et deserunt?
           Accusantium ab esse, aliquid quo eveniet nisi nobis voluptatum cum
